@@ -1,4 +1,4 @@
-#Cowtransfer-cli-py
+# Cowtransfer-cli-py
 这是一个第三方是cowtransfer上传下载工具
 
 ## Usage
